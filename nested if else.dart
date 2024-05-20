@@ -1,4 +1,8 @@
 void main() {
+
+   //first program emil and pasword
+
+
   String email = "Noshababooher7@gmail.com";
   String pasword = "1234567";
 
@@ -13,6 +17,9 @@ void main() {
   } else {
     print("login is faild");
   }
+
+
+  //  second program in total marls
 
   int totalMarks = 20;
 
@@ -30,6 +37,9 @@ void main() {
     print("You have failed");
   }
 
+
+    //third program numbers 
+
   var number = 6;
 
   if (number % 2 == 0 || number % 3 == 0) {
@@ -43,6 +53,11 @@ void main() {
   } else {
     print("number is not divisible by both");
   }
+
+     
+
+     //fourth program number grather and less than
+
 
   int num1 = 30;
   int num2 = 40;
